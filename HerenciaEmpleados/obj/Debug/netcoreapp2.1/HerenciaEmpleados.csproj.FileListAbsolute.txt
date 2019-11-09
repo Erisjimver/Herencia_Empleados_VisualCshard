@@ -1,0 +1,11 @@
+C:\Users\Home\source\repos\HerenciaEmpleados\HerenciaEmpleados\bin\Debug\netcoreapp2.1\HerenciaEmpleados.deps.json
+C:\Users\Home\source\repos\HerenciaEmpleados\HerenciaEmpleados\bin\Debug\netcoreapp2.1\HerenciaEmpleados.runtimeconfig.json
+C:\Users\Home\source\repos\HerenciaEmpleados\HerenciaEmpleados\bin\Debug\netcoreapp2.1\HerenciaEmpleados.runtimeconfig.dev.json
+C:\Users\Home\source\repos\HerenciaEmpleados\HerenciaEmpleados\bin\Debug\netcoreapp2.1\HerenciaEmpleados.dll
+C:\Users\Home\source\repos\HerenciaEmpleados\HerenciaEmpleados\bin\Debug\netcoreapp2.1\HerenciaEmpleados.pdb
+C:\Users\Home\source\repos\HerenciaEmpleados\HerenciaEmpleados\obj\Debug\netcoreapp2.1\HerenciaEmpleados.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\HerenciaEmpleados\HerenciaEmpleados\obj\Debug\netcoreapp2.1\HerenciaEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\HerenciaEmpleados\HerenciaEmpleados\obj\Debug\netcoreapp2.1\HerenciaEmpleados.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\HerenciaEmpleados\HerenciaEmpleados\obj\Debug\netcoreapp2.1\HerenciaEmpleados.AssemblyInfo.cs
+C:\Users\Home\source\repos\HerenciaEmpleados\HerenciaEmpleados\obj\Debug\netcoreapp2.1\HerenciaEmpleados.dll
+C:\Users\Home\source\repos\HerenciaEmpleados\HerenciaEmpleados\obj\Debug\netcoreapp2.1\HerenciaEmpleados.pdb
