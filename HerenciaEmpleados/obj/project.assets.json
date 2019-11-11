@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\source\\repos\\HerenciaEmpleados\\HerenciaEmpleados\\HerenciaEmpleados.csproj",
+      "projectUniqueName": "C:\\Users\\Home\\source\\repos\\Herencia_Empleados_VisualCshard\\HerenciaEmpleados\\HerenciaEmpleados.csproj",
       "projectName": "HerenciaEmpleados",
-      "projectPath": "C:\\Users\\Home\\source\\repos\\HerenciaEmpleados\\HerenciaEmpleados\\HerenciaEmpleados.csproj",
+      "projectPath": "C:\\Users\\Home\\source\\repos\\Herencia_Empleados_VisualCshard\\HerenciaEmpleados\\HerenciaEmpleados.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\source\\repos\\HerenciaEmpleados\\HerenciaEmpleados\\obj\\",
+      "outputPath": "C:\\Users\\Home\\source\\repos\\Herencia_Empleados_VisualCshard\\HerenciaEmpleados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
